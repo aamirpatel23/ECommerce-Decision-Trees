@@ -1,6 +1,6 @@
 # ECommerce-Decision-Trees
 
-The [dataset](https://storage.googleapis.com/sample_user_behavior_data/sample_user_data.csv) contains website users data (Google Analytics data) from Jan 1, 2017 to Jul 31, 2017. The sample dataset contains obfuscated Google Analytics 360 data from the [Google Merchandise Store](https://www.googlemerchandisestore.com/shop.axd/Home?utm_source=Partners&utm_medium=affiliate&utm_campaign=Data%20Share%20Promo), a real ecommerce store. The Google Merchandise Store sells Google branded merchandise. The data is typical of what you would see for an ecommerce website. It includes the following kinds of information:
+The [dataset](https://github.com/aamirpatel23/ECommerce-Decision-Trees/blob/master/sample_user_data.rar) contains website users data (Google Analytics data) from Jan 1, 2017 to Jul 31, 2017. The sample dataset contains obfuscated Google Analytics 360 data from the [Google Merchandise Store](https://www.googlemerchandisestore.com/shop.axd/Home?utm_source=Partners&utm_medium=affiliate&utm_campaign=Data%20Share%20Promo), a real ecommerce store. The Google Merchandise Store sells Google branded merchandise. The data is typical of what you would see for an ecommerce website. It includes the following kinds of information:
 
 **1. Traffic source data:** information about where website visitors originate. This includes data about organic traffic, paid search traffic, display traffic, etc.
 
